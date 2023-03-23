@@ -1,5 +1,5 @@
 ## Task description
-This project aims to code a C library.
+This project is a re-implementation of the C standard library. (I also implemented and integrated the linked list and doubly linked list data structures into the library for more efficient data storage and processing).
 
 # Technical considerations
 - It is forbidden to declare global variables.
